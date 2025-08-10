@@ -59,9 +59,4 @@ Adicionalmente, se implementó la función para que el campo de texto se limpie 
 
 ## Acceso al Proyecto
 
-Puedes clonar este repositorio y abrir el archivo `index.html` en cualquier navegador moderno para usar la aplicación localmente.
-
-```bash
-git clone https://github.com/tuusuario/amigo-secreto.git
-cd amigo-secreto
-# Abrir index.html en tu navegador
+https://climh-dev.github.io/challenge-amigo-secreto-esp-main/
