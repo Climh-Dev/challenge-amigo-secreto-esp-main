@@ -18,9 +18,6 @@
 - [Estado del Proyecto](#estado-del-proyecto)  
 - [Demostración](#demostración)  
 - [Acceso al Proyecto](#acceso-al-proyecto)  
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)  
-- [Personas Contribuyentes](#personas-contribuyentes)  
-- [Licencia](#licencia)
 
 ---
 
